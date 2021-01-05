@@ -2,7 +2,7 @@
 
 BIO服务端需要管理多个并发客户端，需要为每个新的客户端Socket创建一个新的Thread
 
-![BIO处理模型](./src/main/resources/BIO处理模型.png)
+![BIO处理模型](./src/main/resources/BIO处理模型.jpg)
 
 缺点：
 
